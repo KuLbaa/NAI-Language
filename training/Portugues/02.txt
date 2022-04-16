@@ -1,0 +1,21 @@
+Um cromossomo (portugu?s brasileiro) ou cromossoma (portugu?s europeu) (do grego ?????, -??? chroma, cor e ????, -??? soma, corpo ou elemento) ??? uma estrutura altamente organizada de uma c???lula, que cont???m o material gen???tico de um organismo.
+
+Cada cromossomo ??? formado a partir de uma ???nica mol???cula de DNA extremamente longa, que cont???m v???rios genes e outras sequ?ncias de nucle???tidos (nucleot???deos) com fun????es espec???ficas nas c???lulas dos seres vivos.[1]
+
+Est??? intimamente relacionado ? determina????o do sexo e a heran???a gen???tica. Muitas c???lulas caracter???sticas dos corpos dos eucariontes apresentam pares de cromossomos, essa condi????o ??? denominada estado dipl???ide (2n), s?o as c???lulas som???ticas com 23 pares de cromossomos, totalizando 46 cromossomos; enquanto que as c???lulas sexuais ou gametas apresentam apenas uma c???pia de cada cromossomo, ou seja 23 cromossomos no total, condi????o hapl???ide (n).
+
+Cada par de cromossomo ??? diferente um do outro e diferentes pares de cromossomos tem diferentes conjuntos de genes. Os cromossomos membros de um par s?o hom???logos, tem conjuntos iguais de genes, j??? os cromossomos de pares diferentes s?o denominados cromossomos heter???logos.[2]
+
+Nos cromossomas dos eucariontes, o DNA encontra-se numa forma semi-ordenada dentro do n???cleo celular, agregado a prote???nas estruturais, as histonas[3] (Fig. 1), e toma a designa????o de cromatina. Os procariontes n?o possuem histonas nem n???cleo. Na sua forma n?o-condensada, o DNA pode sofrer transcri????o, regula????o e replica????o.
+
+Durante a mitose (ver divis?o celular), os cromossomos encontram-se condensados e t?m o nome de cromossomos metaf???sicos e ??? a ???nica ocasi?o em que se podem observar com um microsc???pio ???ptico.[4]
+
+Um dos primeiros investigadores que observaram cromossomas foi Karl Wilhelm von N???geli em 1842 e o seu comportamento foi descrito em detalhe por Walther Flemming em 1882. Os cientistas alem?es Schleiden,[5] Virchow e B???tschli estiveram entre os primeiros cientistas que reconheceram as estruturas agora familiares como cromossomos.[6]
+
+Em uma s???rie de experimentos iniciados em meados da d???cada de 1880, Theodor Boveri deu contribui????es definitivas para elucidar que os cromossomos s?o os vetores da hereditariedade, com duas no????es que ficaram conhecidas como "continuidade cromoss???mica" e "individualidade cromoss???mica".[7] Wilhelm Roux sugeriu que cada cromossomo carrega uma configura????o gen???tica diferente, e Boveri foi capaz de testar e confirmar essa hip???tese. Auxiliado pela redescoberta no in???cio dos anos 1900 do trabalho anterior de Mendel, foi capaz de apontar a conex?o entre as leis de hereditariedade e o comportamento dos cromossomos. Boveri influenciou duas gera????es de citologistas americanos: Edmund Beecher Wilson, Nettie Stevens, Walter Sutton e Theophilus Painter foram todos influenciados por Boveri (Wilson, Stevens e Painter realmente trabalharam com ele).[8]
+
+Em seu famoso livro The Cell in Development and Heredity, Wilson relacionou o trabalho independente de Boveri e Sutton (ambos por volta de 1902) e nomeou a teoria como teoria cromoss???mica de Boveri-Sutton (os nomes ?s vezes s?o invertidos).[9] Ernst Mayr observa que a teoria foi fortemente contestada por alguns geneticistas famosos: William Bateson, Wilhelm Johannsen, Richard Goldschmidt e T.H. Morgan, com uma mentalidade bastante dogm???tica. Eventualmente, em 1910, a prova completa veio de mapas de cromossomos no pr???prio laborat???rio de Morgan.[10]
+
+Edmund Beecher Wilson constatou que o comportamento dos cromossomos durante a meiose poderia ser respons???vel pela heran???a do sexo.[2]
+
+O numero de cromossomos humanos foi publicado em 1923 por Theophilus Painter. Pela inspe????o ao microsc???pio, ele contou 24 pares, o que significaria 48 cromossomos. Seu erro foi copiado por outros e s??? em 1956 o n???mero verdadeiro, 46, foi determinado por citogeneticista nascido na Indon???sia Joe Hin Tjio.[11]

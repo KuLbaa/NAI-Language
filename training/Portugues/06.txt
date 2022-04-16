@@ -1,0 +1,27 @@
+Computador ??? um conjunto de componentes eletr???nicos (m???quina) capaz de executar variados tipos de algoritmos e tratamento de informa????es (processamento de dados).[1] Um computador pode possuir in???meros atributos, dentre eles armazenamento de dados, processamento de dados, c???lculo em grande escala, desenho industrial, tratamento de imagens gr???ficas, realidade virtual, entretenimento e cultura.
+
+No passado, o termo j??? foi aplicado a pessoas respons???veis por algum c???lculo. Em geral, entende-se por computador um sistema f???sico que realiza algum tipo de computa????o. Existe ainda o conceito matem???tico rigoroso, utilizado na teoria da computa????o.
+
+Assumiu-se que os computadores pessoais e laptops s?o ???cones da Era da Informa????o;[2] e isto ??? o que muitas pessoas consideram como "computador". Entretanto, atualmente as formas mais comuns de computador em uso s?o os sistemas embarcados, pequenos dispositivos usados para controlar outros dispositivos, como rob???s, c???meras digitais ou brinquedos.
+
+John Napier (1550-1617), escoc?s inventor dos logaritmos, tamb???m inventou os ossos de Napier, que eram tabelas de multiplica????o gravadas em bast?o, o que evitava a memoriza????o da tabuada.
+
+A primeira m???quina computadora de verdade foi constru???da por Wilhelm Schickard sendo capaz de somar, subtrair, multiplicar e dividir. Essa m???quina foi perdida durante a guerra dos trinta anos, sendo que recentemente foi encontrada alguma documenta????o sobre ela. Durante muitos anos nada se soube sobre essa m???quina, por isso, atribu???a-se a Blaise Pascal (1623-1662) a constru????o da primeira m???quina calculadora, que fazia apenas somas e subtra????es.[3]
+
+A m???quina Pascal foi criada com objetivo de ajudar seu pai a computar os impostos em Rouen, Fran???a. O projeto de Pascal foi bastante aprimorado pelo matem???tico alem?o Gottfried Wilhelm Leibniz (1646-1726), que tamb???m inventou o c???lculo, o qual sonhou que, um dia no futuro, todo o racioc???nio pudesse ser substitu???do pelo girar de uma simples alavanca.
+
+Todas essas m???quinas, por???m, estavam longe de ser um computador de uso geral, pois n?o eram program???veis. Isto quer dizer que a entrada era feita apenas de n???meros, mas n?o de instru????es a respeito do que fazer com os n???meros.
+
+A origem da ideia de programar uma m???quina vem da necessidade de que as m???quinas de tecer produzissem padr?es de cores diferentes. Assim, no s???culo XVIII foi criada uma forma de representar os padr?es em cart?es de papel perfurado, que eram tratados manualmente. Em 1801, Joseph Marie Jacquard (1752-1834) inventa um tear mec???nico, com uma leitora autom???tica de cart?es.
+
+A ideia de Jacquard atravessou o Canal da Mancha, onde inspirou Charles Babbage (1792-1871), um professor de matem???tica de Cambridge, a desenvolver uma m???quina de ???tecer n???meros???, uma m???quina de calcular onde a forma de calcular pudesse ser controlada por cart?es.
+
+Tudo come???ou com a tentativa de desenvolver uma m???quina capaz de calcular polin???mios por meio de diferen???as, o calculador diferencial. Enquanto projetava seu calculador diferencial, a ideia de Jacquard fez com que Babbage imaginasse uma nova e mais complexa m???quina, o calculador anal???tico, m???quina com alguns elementos que remetem aos computadores atuais.
+
+Sua parte principal seria um conjunto de rodas dentadas, o moinho, formando uma m???quina de somar com precis?o de cinquenta d???gitos. As instru????es seriam lidas de cart?es perfurados. Os cart?es seriam lidos em um dispositivo de entrada e armazenados, para futuras refer?ncias, em um banco de mil registradores. Cada um dos registradores seria capaz de armazenar um n???mero de cinquenta d???gitos, que poderiam ser colocados l??? por meio de cart?es a partir do resultado de um dos c???lculos do moinho.
+
+Al???m disso tudo, Babbage imaginou a primeira m???quina de impress?o, que imprimiria os resultados dos c???lculos, contidos nos registradores. Babbage conseguiu, durante algum tempo, fundos para sua pesquisa, por???m n?o conseguiu completar sua m???quina no tempo prometido e n?o recebeu mais dinheiro. Hoje, partes de sua m???quina podem ser vistas no Museu Brit???nico, que tamb???m construiu uma vers?o completa, utilizando as t???cnicas dispon???veis na ???poca.
+
+Junto com Babbage, trabalhou a jovem Ada Augusta, filha do poeta Lord Byron, conhecida como Lady Lovelace e Ada Lovelace. Ada foi a primeira programadora da hist???ria, projetando e explicando, a pedido de Babbage, programas para a m???quina inexistente. Ada inventou os conceitos de subrotina, uma seq????ncia de instru????es que pode ser usada v???rias vezes; de loop, uma instru????o que permite a repeti????o de uma sequ?ncia de instru????es, e do salto condicional, instru????o que permite saltar para algum trecho do programa caso uma condi????o seja satisfeita.
+
+Ada Lovelace e Charles Babbage estavam avan???ados demais para o seu tempo, tanto que at??? a d???cada de 1940, nada se inventou parecido com seu computador anal???tico. At??? essa ???poca foram constru???das muitas m???quinas mec???nicas de somar destinadas a controlar neg???cios (principalmente caixas registradoras) e algumas m???quinas inspiradas na calculadora diferencial de Babbage, para realizar c???lculos de engenharia (que n?o alcan???aram grande sucesso).
