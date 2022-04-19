@@ -79,11 +79,7 @@ public class Perceptron {
         for (int i = 0; i < weight.length; i++) {
             sum += letters[i] * weight[i];
         }
-        if (sum>=0) {
-            return true;
-        } else {
-            return false;
-        }
+        return !(sum>=0);
     }
 
     @Override
